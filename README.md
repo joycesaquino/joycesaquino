@@ -3,6 +3,9 @@ Hi there ! I'm Joyce.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?plastic&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyceaquino/)](https://www.linkedin.com/in/joyceaquino/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?plastic&logo=appveyor&logo=Medium&logoColor=white&link=https://joycesaquino.medium.com/)](https://joycesaquino.medium.com/)
 
+I have two female pets 🐶 😽 <br>
+I love cooking and watching documentaries of the most random topics you can imagine !
+
 Here you can find somethings about me and my career as Software Engineer 💻
 
 I started as a developer in 2013 when i pass  to intern program in Sulamérica Seguros since then, I've been at Sendas S.A. where I've developed the features of an ERP aimed at exporting and reprocessing coffee.
@@ -11,8 +14,16 @@ I also worked at Americanas SA working with high-performance applications focuse
 
 And now I work as a Software Engineer at Quinto Andar and I'm developing applications aimed at the top of the real estate sales funnel and learning a lot to work oriented to digital products.
 
-Skills
------
+Soft skills
+--
+![Proactivity Badge](https://img.shields.io/badge/-Proactivity-yellow?plastic&logo=appveyor&logo=Java&logoColor=white)
+![Communication Badge](https://img.shields.io/badge/-Communication-blueviolet?plastic&logo=appveyor&logo=Java&logoColor=white)
+![Organization Badge](https://img.shields.io/badge/-Organization-blue?plastic&logo=appveyor&logo=Java&logoColor=white)
+![Creativity Badge](https://img.shields.io/badge/-Creativity-ff69b4?plastic&logo=appveyor&logo=Java&logoColor=white)
+
+
+Hard skills
+--
 ![Java Badge](https://img.shields.io/badge/-Java-red?plastic&logo=appveyor&logo=Java&logoColor=white)
 ![Golang Badge](https://img.shields.io/badge/-Golang-blue?plastic&logo=appveyor&logo=Golang&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/-AWS-orange?plastic&logo=appveyor&logo=AWS&logoColor=white)
