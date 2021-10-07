@@ -1,7 +1,7 @@
 Hi there ! I'm Joyce.
 -----
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?plastic&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyceaquino/)](https://www.linkedin.com/in/joyceaquino/)
-
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?plastic&logo=appveyor&logo=Medium&logoColor=white&link=https://joycesaquino.medium.com/)](https://joycesaquino.medium.com/)
 
 Here you can find somethings about me and my career as Software Engineer 💻
 
