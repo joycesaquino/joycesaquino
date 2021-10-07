@@ -8,10 +8,11 @@ Here you can find somethings about me and my career as Software Engineer 💻
 I have two female pets 🐶 😽 <br>
 I love cooking and watching documentaries of the most random topics you can imagine !
 
-
 I started as a developer in 2013 when i pass  to intern program in Sulamérica Seguros since then, I've been at Sendas S.A. where I've developed the features of an ERP aimed at exporting and reprocessing coffee.
 
-I also worked at Americanas SA working with high-performance applications focused on scalability scenarios and event-oriented architectures.
+I've also worked at Americanas SA developing high-performance applications focused on scalability scenarios.
+
+I have strong experience in event driven architectures and large data indexing, if you have a little time, you can watch me talk more about this on [The Developers Conference](https://www.youtube.com/watch?v=nCRHdxu8E7o).
 
 Now I work as a Software Engineer at [Quinto Andar](https://www.linkedin.com/company/quintoandar-com-br/) and I'm developing applications aimed at the top of the real estate sales funnel and learning a lot to work oriented to digital products.
 
@@ -44,6 +45,8 @@ Now I work as a Software Engineer at [Quinto Andar](https://www.linkedin.com/com
 <br>
 
 You can contact me at <a href="mailto:joycesaquino@gmail.com">joycesaquino@gmail.com</a>.<br>
+
+That's all, folks !
 
 <!--
 
