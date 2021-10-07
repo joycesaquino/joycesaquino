@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there ! I'm Joyce.
+
+Here you can find somethings about me and my career as Software Engineer 💻
+
+I started as a developer in 2013 when i pass  to intern program in Sulamérica Seguros since then, I've been at Sendas S.A. where I've developed the features of an ERP aimed at exporting and reprocessing coffee.
+
+I also worked at Americanas SA working with high-performance applications focused on scalability scenarios and event-oriented architectures.
+
+And now I work as a Software Engineer at Quinto Andar and I'm developing applications aimed at the top of the real estate sales funnel and learning a lot to work oriented to digital products.
 
 <!--
 **joycesaquino/joycesaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
