@@ -1,12 +1,13 @@
 Hi there ! I'm Joyce.
 -----
+Here you can find somethings about me and my career as Software Engineer 💻
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?plastic&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyceaquino/)](https://www.linkedin.com/in/joyceaquino/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?plastic&logo=appveyor&logo=Medium&logoColor=white&link=https://joycesaquino.medium.com/)](https://joycesaquino.medium.com/)
 
 I have two female pets 🐶 😽 <br>
 I love cooking and watching documentaries of the most random topics you can imagine !
 
-Here you can find somethings about me and my career as Software Engineer 💻
 
 I started as a developer in 2013 when i pass  to intern program in Sulamérica Seguros since then, I've been at Sendas S.A. where I've developed the features of an ERP aimed at exporting and reprocessing coffee.
 
