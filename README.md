@@ -26,7 +26,6 @@ Now I work as a Software Engineer at [Quinto Andar](https://www.linkedin.com/com
 ![Programming Languages](https://img.shields.io/badge/JavaScript/NodeJS/Type-yellow)
 <br>
 ![Could Computing](https://img.shields.io/badge/Cloud%20Computing-AWS-orange)
-![Could Computing](https://img.shields.io/badge/Cloud%20Computing-GCP-orange)
 <br>
 ![Techniques](https://img.shields.io/badge/Techniques%20and%20Experience-Tests-blue)
 ![Techniques](https://img.shields.io/badge/OPP-blue)
