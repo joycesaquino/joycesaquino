@@ -16,11 +16,7 @@ I have strong experience in event driven architectures and large data indexing, 
 
 Now I work as a Software Engineer at [Quinto Andar](https://www.linkedin.com/company/quintoandar-com-br/) and I'm developing applications aimed at the top of the real estate sales funnel and learning a lot to work oriented to digital products.
 
-![softskills](https://img.shields.io/badge/Soft%20Skills-Proactivity-ff69b4)
-![softskills](https://img.shields.io/badge/Communication-ff69b4)
-![softskills](https://img.shields.io/badge/Organization-ff69b4)
-![softskills](https://img.shields.io/badge/Creativity-ff69b4)
-<br>
+
 ![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java-yellow)
 ![Programming Languages](https://img.shields.io/badge/Golang-yellow)
 ![Programming Languages](https://img.shields.io/badge/JavaScript/NodeJS/Type-yellow)
