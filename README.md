@@ -14,28 +14,6 @@ I have strong experience in event-driven architectures and large data indexing, 
 Now I work as a Senior Software Engineer at [Quinto Andar](https://www.linkedin.com/company/quintoandar-com-br/) and I'm developing applications aimed at the top of the real estate sales funnel and learning a lot to work oriented to digital products.
 
 
-![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Java-yellow)
-![Programming Languages](https://img.shields.io/badge/Golang-yellow)
-![Programming Languages](https://img.shields.io/badge/JavaScript/NodeJS/Type-yellow)
-<br>
-![Could Computing](https://img.shields.io/badge/Cloud%20Computing-AWS-orange)
-<br>
-![Techniques](https://img.shields.io/badge/Techniques%20and%20Experience-Tests-blue)
-![Techniques](https://img.shields.io/badge/OPP-blue)
-![Techniques](https://img.shields.io/badge/Design%20Patterns-blue)
-![Techniques](https://img.shields.io/badge/Event%20Drive%20Architecture-blue)
-<br>
-![image](https://img.shields.io/badge/SQL%20Databse-Postgres-brightgreen)<br>
-![image](https://img.shields.io/badge/NoSQL%20Databse-MongoDb-brightgreen)
-![image](https://img.shields.io/badge/Cassandra-brightgreen)
-![image](https://img.shields.io/badge/DynamoDb-brightgreen)
-<br>
-![image](https://img.shields.io/badge/Containers/Orchestration-kubernetes-lightgrey)
-![image](https://img.shields.io/badge/Monitoring/Metrics-NewRelic-lightgrey)
-![image](https://img.shields.io/badge/Monitoring/Metrics-Datadog-lightgrey)
-![image](https://img.shields.io/badge/Monitoring/Metrics-Kibana-lightgrey)
-<br>
-
 You can contact me at <a href="mailto:joycesaquino@gmail.com">joycesaquino@gmail.com</a>.<br>
 
 That's all, folks !
